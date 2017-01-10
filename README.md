@@ -4,7 +4,7 @@
 ### Make a room, or join a room and play a round of the classic Cards Against Humanities.
 * Cards against humanities resource api is available online, so we have all the sets and expansions we need.
 * Allow users to play CAH with each other online
-* Websockets provide real time chatting for the lolz and funny card combinations
+* Websockets provide real time chatting for the lolz and discussing funny card combinations
 * Create game rooms or join existing rooms
 * OAuth facebook
 
@@ -42,5 +42,10 @@
 ### Users can watch synchronized youtube videos, along with a chat box to discuss the contents. 
 * Main feature: synchronized playlist, synchronized video playback - no matter how many users are connected - using websockets
 * OAuth Facebook
+
+## Other to consider
+### Watson API, NASA API, AI Chatbots, Amazon SC2 Servers, CSS Animations/Parallax, 
+### We can also search for some cool APIs on Mashape
+
 
 

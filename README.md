@@ -43,6 +43,10 @@
 * Main feature: synchronized playlist, synchronized video playback - no matter how many users are connected - using websockets
 * OAuth Facebook
 
+## Augmented Reality app ( would need to find appropriate API )
+### Utilize your webcam for augmented reality 
+* https://www.programmableweb.com/category/augmented-reality/api
+
 ## Other to consider
 ### Watson API, NASA API, AI Chatbots, Amazon SC2 Servers, CSS Animations/Parallax, 
 ### We can also search for some cool APIs on Mashape
